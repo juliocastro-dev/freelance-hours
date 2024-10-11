@@ -1,3 +1,5 @@
 <div>
-    @dump($project)
+    <pre>
+        title: {{ $project->title }}
+    </pre>
 </div>
